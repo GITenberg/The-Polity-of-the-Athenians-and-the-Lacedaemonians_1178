@@ -1,0 +1,75 @@
+_repo: The-Polity-of-the-Athenians-and-the-Lacedaemonians_1178
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Dakyns, Henry Graham
+    aliases:
+    - Dakyns, H. G. (Henry Graham)
+    - Dakyns, Henry G. (Henry Graham)
+    birthdate: 1838
+    deathdate: 1911
+    gutenberg_agent_id: '544'
+    url: http://www.gutenberg.org/2009/agents/544
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Graham_Dakyns
+creator:
+  author:
+    agent_name: Xenophon
+    alias: Ξενοφών
+    birthdate: -431
+    deathdate: -355
+    gutenberg_agent_id: '543'
+    url: http://www.gutenberg.org/2009/agents/543
+    wikipedia: http://en.wikipedia.org/wiki/Xenophon
+description: "The Laws (Greek: Νόμοι; Latin: De Legibus) is Plato's last and longest\
+  \ dialogue. The conversation depicted in the work's twelve books begins with the\
+  \ question of who is given the credit for establishing a civilization's laws. Its\
+  \ musings on the ethics of government and law have established it as a classic of\
+  \ political philosophy alongside Plato's more widely read Republic.\nScholars generally\
+  \ agree that Plato wrote this dialogue as an older man, having failed in his effort\
+  \ in Syracuse on the island of Sicily to guide a tyrant's rule, instead having been\
+  \ thrown in prison. These events are alluded to in the Seventh Letter. The text\
+  \ is noteworthy as Plato's only undisputed dialogue not to feature Socrates.\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_issued: '1998-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1178'
+  wikidata: Q752285
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Classical literature'
+- !lcc 'PA'
+- !lcsh 'Greece -- Politics and government -- Early works to 1800'
+- GITenberg
+title: The Polity of the Athenians and the Lacedaemonians
+url: http://www.gutenberg.org/ebooks/1178
+wikipedia:
+- https://fi.wikipedia.org/wiki/Lait_(Platon)
+- https://fa.wikipedia.org/wiki/%D9%82%D9%88%D8%A7%D9%86%DB%8C%D9%86_(%D8%A7%D9%81%D9%84%D8%A7%D8%B7%D9%88%D9%86)
+- https://en.wikisource.org/wiki/Laws_(Plato)
+- https://uk.wikipedia.org/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%D0%B8_(%D0%9F%D0%BB%D0%B0%D1%82%D0%BE%D0%BD)
+- https://el.wikipedia.org/wiki/%CE%9D%CF%8C%CE%BC%CE%BF%CE%B9_(%CE%B4%CE%B9%CE%AC%CE%BB%CE%BF%CE%B3%CE%BF%CF%82)
+- https://ja.wikipedia.org/wiki/%E6%B3%95%E5%BE%8B_(%E5%AF%BE%E8%A9%B1%E7%AF%87)
+- https://pt.wikipedia.org/wiki/Leis_(di%C3%A1logo)
+- https://es.wikipedia.org/wiki/Leyes_(di%C3%A1logo)
+- https://en.wikipedia.org/wiki/Laws_(dialogue)
+- https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%D1%8B_(%D0%9F%D0%BB%D0%B0%D1%82%D0%BE%D0%BD)
+- https://ro.wikipedia.org/wiki/Legile_(Platon)
+- https://ko.wikipedia.org/wiki/%EB%B2%95%EB%A5%A0_(%ED%94%8C%EB%9D%BC%ED%86%A4)
+- https://fr.wikipedia.org/wiki/Les_Lois
+- https://sh.wikipedia.org/wiki/Zakoni_(Platon)
+- https://zh.wikipedia.org/wiki/%E6%B3%95%E5%BE%8B%E7%AF%87
+- https://bs.wikipedia.org/wiki/Zakoni_(Platon)
+- https://hu.wikipedia.org/wiki/T%C3%B6rv%C3%A9nyek_(dial%C3%B3gus)
+- https://is.wikipedia.org/wiki/L%C3%B6gin_(Platon)
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%82%D9%88%D8%A7%D9%86%D9%8A%D9%86_(%D8%AD%D9%88%D8%A7%D8%B1)
+- https://nl.wikipedia.org/wiki/Wetten_(Plato)
+- https://id.wikipedia.org/wiki/Hukum_(dialog)
+- https://en.wikiquote.org/wiki/Laws_(dialogue)
+- https://de.wikipedia.org/wiki/Nomoi
+- https://sr.wikipedia.org/wiki/Zakoni_(Platon)
+- https://it.wikipedia.org/wiki/Leggi_(dialogo)
+- https://ca.wikipedia.org/wiki/Les_Lleis
